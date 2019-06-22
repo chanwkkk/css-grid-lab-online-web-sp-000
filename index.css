@@ -9,6 +9,7 @@ body {
   width: 100vw;
   display: grid;
   grid-template: 1fr 1fr 1fr 1fr / 1fr 1fr 1fr;
+  justify-items: center
   /* your properties here */
 }
 
